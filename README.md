@@ -90,11 +90,11 @@ Join me on Linkedin.
 <p align="center">
 <img src="https://myreadme.vercel.app/api/embed/zamaex96?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </p>
----
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=zamaex96&style=for-the-badge&color=orange" alt=""/>
 </div>
----
+
 <p align="center">
  <img width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />         
 </p>
