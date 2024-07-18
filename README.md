@@ -110,7 +110,7 @@ Join me on Linkedin.
 </div>
 
 <p align="center">
- <img width="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />         
+ <img width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />         
 </p>
 
 
