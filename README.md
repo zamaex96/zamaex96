@@ -103,6 +103,12 @@ Join me on Linkedin.
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamaex96&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
+<p align="center">
+  <img src="https://img.shields.io/github/stars/zamaex96?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/followers/zamaex96?style=social" alt="GitHub followers">
+  <img src="https://img.shields.io/github/commit-activity/y/zamaex96?style=plastic" alt="GitHub commit activity">
+  <img src="https://img.shields.io/github/languages/top/zamaex96/repo-name?style=plastic" alt="Top languages">
+</p>
 
 
 <div id="header" align="center">
