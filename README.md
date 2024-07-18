@@ -93,8 +93,9 @@ Join me on Linkedin.
 
 
 ---
-
-<img src="https://myreadme.vercel.app/api/embed/zamaex96?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<p align="center">
+<img width="800" height="220" src="https://myreadme.vercel.app/api/embed/zamaex96?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</p>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=zamaex96&style=for-the-badge&color=orange" alt=""/>
