@@ -104,8 +104,7 @@ Join me on Linkedin.
 </p>
  
 
-
-![](http://github-profile-summary-five.vercel.app/api/cards/profile-details?username=zamaex96&theme=default)
+![](http://github-profile-summary-five.vercel.app/api/cards/repos-per-language?username=zamaex96&theme=default)
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=zamaex96&style=for-the-badge&color=orange" alt=""/>
