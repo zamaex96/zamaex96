@@ -1,5 +1,5 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zamaex96&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/zamaex96/github-profile-trophy)
+
 <p align="center">
   <a href="https://github.com/zamaex96/github-profile-trophy">
     <img width="1000" height="400" src="https://github-profile-trophy.vercel.app/?username=zamaex96&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark">
