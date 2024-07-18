@@ -103,12 +103,7 @@ Join me on Linkedin.
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamaex96&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
-<p align="center">
-  <img src="https://img.shields.io/github/stars/zamaex96?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/followers/zamaex96?style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/commit-activity/y/zamaex96?style=plastic" alt="GitHub commit activity">
-  <img src="https://img.shields.io/github/languages/top/zamaex96/repo-name?style=plastic" alt="Top languages">
-</p>
+
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
