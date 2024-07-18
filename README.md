@@ -1,27 +1,4 @@
-</p>
-  <p align="center">
-    <a href="https://github.com/zamaex96/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/zamaex96/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/zamaex96/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/zamaex96/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/zamaex96/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/zamaex96/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/zamaex96/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/zamaex96/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/zamaex96/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/zamaex96/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/zamaex96/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/zamaex96/github-readme-stats/badge" />
-    </a>
-    <br />
-    <br />
-   
-  </p>
+
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=zamaex96&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/zamaex96/github-profile-trophy)
   
