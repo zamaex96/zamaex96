@@ -21,8 +21,6 @@
     <br />
     <br />
    
-      
-    </a>
   </p>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=zamaex96&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/zamaex96/github-profile-trophy)
