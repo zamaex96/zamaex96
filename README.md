@@ -97,18 +97,6 @@ Join me on Linkedin.
 
 
 
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zamaex96&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamaex96&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zamaex96&show_icons=true&theme=vision-friendly-dark&token=9677" alt="GitHub Stats">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamaex96&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark&token=9677" alt="Top Languages">
-</p>
-
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=zamaex96&style=for-the-badge&color=orange" alt=""/>
 </div>
