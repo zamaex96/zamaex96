@@ -94,7 +94,7 @@ Join me on Linkedin.
 
 ---
 <p align="center">
-<img width="800" height="220" src="https://myreadme.vercel.app/api/embed/zamaex96?panels=userstatistics,toplanguage,commitgraph" alt="reimaginedreadme" />
+<img width="800" height="220" src="https://myreadme.vercel.app/api/embed/zamaex96?panels=userstatistics,toprepositories,toplanguage,commitgraph" alt="reimaginedreadme" />
 </p>
 
 <div id="header" align="center">
