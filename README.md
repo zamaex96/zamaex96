@@ -1,14 +1,13 @@
 <div align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="MS"/>
   <h2 align="center">MS</h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
+  <p align="center">🏆 Reach out to collaborate.🥇 </p>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zamaex96&margin-w=15&row=1&column=8)](https://github.com/zamaex96/github-profile-trophy)
 ### About Me:    
 I have research expertise in the domains of Artificial Intelligence, Internet of Things, Underwater Wireless Sensor Network, Underwater Wireless Optical Communication, and RF Communication Component Design. I utilize various tools and simulation techniques to evaluate and develop communication modules, analyze their performance, and publish academic papers that undergo peer review process. I utilize a diverse range of sensor data acquired by undersea and atmospheric sensor nodes to train machine learning models in order to predicts different patterens or parameters.
 
-Reach out to collaborate.🥇 
 
 ### Social media: 📡    
 Join me on Linkedin. 
