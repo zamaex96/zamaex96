@@ -3,7 +3,7 @@ I have research expertise in the domains of Artificial Intelligence, Internet of
 
 Reach out to collaborate.🥇
 [![trophy](https://github-profile-trophy.vercel.app/?username=zamaex96&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/zamaex96/github-profile-trophy)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=zamaex96)](https://github.com/zamaex96/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zamaex96&margin-w=15)](https://github.com/zamaex96/github-profile-trophy)
 ### Social media: 📡    
 Join me on Linkedin. 
 
