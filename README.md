@@ -19,6 +19,7 @@ Join me on Linkedin.
 - [Diversity Gain enabled VLC/UWOC](https://github.com/zamaex96/Diversity-Gain-VLC)
 - [LSTM](https://github.com/zamaex96/Machine-Learning-LSTM-sample)
 - [LoRa-VLC/UWOC](https://github.com/zamaex96/LoRa-VLC)
+- [MobileNet](https://github.com/zamaex96/Train-MobileNet)
 
 
 ## Languages and Tools 
