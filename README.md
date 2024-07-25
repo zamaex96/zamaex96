@@ -1,21 +1,7 @@
 <div align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="MS"/>
-  <h2 align="center">GitHub Profile Trophy</h2>
+  <h2 align="center">MS</h2>
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
-</div>
-<div align="center">
-  <a href="https://github.com/zamaex96/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/zamaex96/github-profile-trophy" alt="Issues"/>
-  </a>
-  <a href="https://github.com/zamaex96/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/zamaex96/github-profile-trophy" alt="Forks"/>
-  </a>
-  <a href="https://github.com/zamaex96/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/zamaex96/github-profile-trophy" alt="Stargazers"/>
-  </a>
-    <a href="https://github.com/zamaex96/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/zamaex96/github-profile-trophy" alt="License"/>
-  </a>
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zamaex96&margin-w=15&row=1&column=8)](https://github.com/zamaex96/github-profile-trophy)
