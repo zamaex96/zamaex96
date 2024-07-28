@@ -75,7 +75,7 @@ Join me on Linkedin.
 
 
 
-### It's not technology, but I use it.:
+### some more supplementary tools.:
 | TexWorks | YAML | PyCharm | Gitlab | Putty | Terraterm | Agilent Waveforms | Photoshop|
 |----------|----------|----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="60"  height="60"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="60" height="60"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="60" height="60"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="60" height="60"/>| <img width="60" height="60" src="https://img.icons8.com/nolan/64/putty.png" alt="putty"/>|<img width="60" height="60" src="https://img.icons8.com/dusk/64/term.png" alt="term"/>|<img width="60" height="60" src="https://img.icons8.com/external-ayo-icons-royyan-wijaya/24/external-waveform-audio-video-line-ayo-icons-royyan-wijaya.png" alt="external-waveform-audio-video-line-ayo-icons-royyan-wijaya"/>|<img width="60" height="60" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>|
