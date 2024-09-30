@@ -94,17 +94,23 @@ Join me on Linkedin.
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamaex96&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
+---
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=zamaex96&style=for-the-badge&color=orange" alt=""/>
 </div>
  
+---
 
 <p align="center">
  <img width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />         
 </p>
 
+---
+
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
+---
 
