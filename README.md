@@ -108,7 +108,6 @@ Join me on Linkedin.
   <img src="https://komarev.com/ghpvc/?username=zamaex96&style=for-the-badge&color=orange" alt=""/>
 </div>
  
----
 
 <p align="center">
  <img width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />         
