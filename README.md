@@ -104,9 +104,6 @@ Join me on Linkedin.
 
 ---
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=zamaex96&style=for-the-badge&color=orange" alt=""/>
-</div>
  
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zamaex96&show_icons=true&theme=vision-friendly-dark">
@@ -120,6 +117,10 @@ Join me on Linkedin.
 </p>
 
 ---
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=zamaex96&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 <div align="center">
   <a href="https://maazsalman.org/">
