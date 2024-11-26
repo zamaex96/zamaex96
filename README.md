@@ -22,7 +22,7 @@ Join me on Linkedin.
 ---
 
 ### Working on: 🚀
-- [Hybrid-CNN-LSTM-with-Spatial-Attention](https://github.com/zamaex96/Hybrid-CNN-LSTM-with-Spatial-Attention).
+- [Hybrid-CNN-LSTM-with-Spatial-Attention](https://github.com/zamaex96/Hybrid-CNN-LSTM-with-Spatial-Attention)
 - [Aqua-sense](https://github.com/zamaex96/Aqua-sense)
 - [Explainable AI](https://github.com/zamaex96/Explainable-AI-XAI-) 
 - [Diversity Gain enabled VLC/UWOC](https://github.com/zamaex96/Diversity-Gain-VLC)
