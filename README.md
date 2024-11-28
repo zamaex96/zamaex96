@@ -12,47 +12,40 @@ I have research expertise in the domains of Artificial Intelligence, Internet of
 
 ### Links: 📡   
 
-Homepage.
-<div align="left">
+<div align="left" style="display: flex; gap: 10px; align-items: center;">
+
+  <!-- Homepage -->
   <a href="https://maazsalman.org/">
-    <img width="45" src="front-page-svgrepo-com.svg" alt="gh" />
+    <img width="45" src="front-page-svgrepo-com.svg" alt="Homepage" />
   </a>
-</div>
 
-@ Mail.
-<div align="left">
-  <a href="maz.zeesal@gmail.com">
-    <img width="45" src="mail-reception-svgrepo-com.svg" alt="gh" />
+  <!-- Mail -->
+  <a href="mailto:maz.zeesal@gmail.com">
+    <img width="45" src="mail-reception-svgrepo-com.svg" alt="Mail" />
   </a>
-</div>
 
-Linkedin. 
-<div align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/zam-sal94">
-    <img width="45" src="linkedin-svgrepo-com.svg" alt="gh" />
+    <img width="45" src="linkedin-svgrepo-com.svg" alt="LinkedIn" />
   </a>
-</div>
 
-Google Scholar.
-<div align="left">
+  <!-- Google Scholar -->
   <a href="https://scholar.google.co.kr/citations?user=Xplpp28AAAAJ">
-    <img width="45" src="google-scholar-svgrepo-com.svg" alt="gh" />
+    <img width="45" src="google-scholar-svgrepo-com.svg" alt="Google Scholar" />
   </a>
-</div>
 
-ORCID.
-<div align="left">
+  <!-- ORCID -->
   <a href="https://orcid.org/0000-0002-8746-3440">
-    <img width="45" src="orcid-svgrepo-com.svg" alt="gh" />
+    <img width="45" src="orcid-svgrepo-com.svg" alt="ORCID" />
   </a>
+
+  <!-- Workplace -->
+  <a href="http://aiotlab.pknu.ac.kr/">
+    <img width="45" src="workspace-employee-svgrepo-com.svg" alt="Workplace" />
+  </a>
+
 </div>
 
-Workplace.
-<div align="left">
-  <a href="http://aiotlab.pknu.ac.kr/">
-    <img width="45" src="workspace-employee-svgrepo-com.svg" alt="gh" />
-  </a>
-</div>
 
 ---
 
