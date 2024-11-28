@@ -18,6 +18,12 @@ Homepage.
     <img width="45" src="front-page-svgrepo-com.svg" alt="gh" />
   </a>
 </div>
+Mail.
+<div align="left">
+  <a href="maz.zeesal@gmail.com">
+    <img width="45" src="mail-reception-svgrepo-com.svg" alt="gh" />
+  </a>
+</div>
 
 Linkedin. 
 
