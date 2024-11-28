@@ -27,8 +27,11 @@ Homepage.
 </div>
 
 Linkedin. 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zam-sal94?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+<div align="left">
+  <a href="https://www.linkedin.com/in/zam-sal94">
+    <img width="45" src="linkedin-svgrepo-com.svg" alt="gh" />
+  </a>
+</div>
 
 Google Scholar.
 <div align="left">
