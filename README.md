@@ -12,7 +12,7 @@ I have research expertise in the domains of Artificial Intelligence, Internet of
 
 ### Links: 📡   
 
-<div align="left" style="display: flex; gap: 10px; align-items: center;">
+<div align="left" style="display: flex; gap: 20px; align-items: center;">
 
   <!-- Homepage -->
   <a href="https://maazsalman.org/">
