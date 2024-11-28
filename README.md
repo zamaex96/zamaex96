@@ -15,7 +15,7 @@ I have research expertise in the domains of Artificial Intelligence, Internet of
 Homepage.
 <div align="left">
   <a href="https://maazsalman.org/">
-    <img width="70" src="front-page-svgrepo-com.svg" alt="gh" />
+    <img width="60" src="front-page-svgrepo-com.svg" alt="gh" />
   </a>
 </div>
 
