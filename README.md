@@ -13,7 +13,12 @@ I have research expertise in the domains of Artificial Intelligence, Internet of
 ### Links: 📡   
 
 Homepage.
-[![Homepage](front-page-svgrepo-com.svg)](https://www.linkedin.com/in/zam-sal94?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+<div align="left">
+  <a href="https://maazsalman.org/">
+    <img width="70" src="front-page-svgrepo-com.svg" alt="gh" />
+  </a>
+  <p> Homepage</p>
+</div>
 
 Linkedin. 
 
