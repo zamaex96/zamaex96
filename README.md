@@ -32,21 +32,21 @@ Linkedin.
 
 Google Scholar.
 <div align="left">
-  <a href="maz.zeesal@gmail.com">
+  <a href="https://scholar.google.co.kr/citations?user=Xplpp28AAAAJ">
     <img width="45" src="google-scholar-svgrepo-com.svg" alt="gh" />
   </a>
 </div>
 
 ORCID.
 <div align="left">
-  <a href="maz.zeesal@gmail.com">
+  <a href="https://orcid.org/0000-0002-8746-3440">
     <img width="45" src="orcid-svgrepo-com.svg" alt="gh" />
   </a>
 </div>
 
 Wrokplace.
 <div align="left">
-  <a href="maz.zeesal@gmail.com">
+  <a href="http://aiotlab.pknu.ac.kr/">
     <img width="45" src="workspace-employee-svgrepo-com.svg" alt="gh" />
   </a>
 </div>
