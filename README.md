@@ -10,8 +10,12 @@ I have research expertise in the domains of Artificial Intelligence, Internet of
 
 ---
 
-### Social media: 📡    
-Join me on Linkedin. 
+### Links: 📡   
+
+Homepage.
+[![Homepage](front-page-svgrepo-com.svg)](https://www.linkedin.com/in/zam-sal94?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+Linkedin. 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zam-sal94?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
