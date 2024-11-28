@@ -16,32 +16,32 @@ I have research expertise in the domains of Artificial Intelligence, Internet of
 
   <!-- Homepage -->
   <a href="https://maazsalman.org/">
-    <img width="45" src="front-page-svgrepo-com.svg" alt="Homepage" />
+    <img width="50" src="front-page-svgrepo-com.svg" alt="Homepage" />
   </a>
 
   <!-- Mail -->
   <a href="mailto:maz.zeesal@gmail.com">
-    <img width="45" src="mail-reception-svgrepo-com.svg" alt="Mail" />
+    <img width="50" src="mail-reception-svgrepo-com.svg" alt="Mail" />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/zam-sal94">
-    <img width="45" src="linkedin-svgrepo-com.svg" alt="LinkedIn" />
+    <img width="50" src="linkedin-svgrepo-com.svg" alt="LinkedIn" />
   </a>
 
   <!-- Google Scholar -->
   <a href="https://scholar.google.co.kr/citations?user=Xplpp28AAAAJ">
-    <img width="45" src="google-scholar-svgrepo-com.svg" alt="Google Scholar" />
+    <img width="50" src="google-scholar-svgrepo-com.svg" alt="Google Scholar" />
   </a>
 
   <!-- ORCID -->
   <a href="https://orcid.org/0000-0002-8746-3440">
-    <img width="45" src="orcid-svgrepo-com.svg" alt="ORCID" />
+    <img width="50" src="orcid-svgrepo-com.svg" alt="ORCID" />
   </a>
 
   <!-- Workplace -->
   <a href="http://aiotlab.pknu.ac.kr/">
-    <img width="45" src="workspace-employee-svgrepo-com.svg" alt="Workplace" />
+    <img width="50" src="workspace-employee-svgrepo-com.svg" alt="Workplace" />
   </a>
 
 </div>
