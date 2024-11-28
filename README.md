@@ -27,12 +27,27 @@ Homepage.
 </div>
 
 Linkedin. 
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zam-sal94?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Google Scholar.
 <div align="left">
   <a href="maz.zeesal@gmail.com">
     <img width="45" src="google-scholar-svgrepo-com.svg" alt="gh" />
+  </a>
+</div>
+
+ORCID.
+<div align="left">
+  <a href="maz.zeesal@gmail.com">
+    <img width="45" src="orcid-svgrepo-com.svg" alt="gh" />
+  </a>
+</div>
+
+Wrokplace.
+<div align="left">
+  <a href="maz.zeesal@gmail.com">
+    <img width="45" src="workspace-employee-svgrepo-com.svg" alt="gh" />
   </a>
 </div>
 
