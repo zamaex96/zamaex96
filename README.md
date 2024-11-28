@@ -44,7 +44,7 @@ ORCID.
   </a>
 </div>
 
-Wrokplace.
+Workplace.
 <div align="left">
   <a href="http://aiotlab.pknu.ac.kr/">
     <img width="45" src="workspace-employee-svgrepo-com.svg" alt="gh" />
