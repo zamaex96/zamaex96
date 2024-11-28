@@ -17,7 +17,6 @@ Homepage.
   <a href="https://maazsalman.org/">
     <img width="70" src="front-page-svgrepo-com.svg" alt="gh" />
   </a>
-  <p> Homepage</p>
 </div>
 
 Linkedin. 
