@@ -49,7 +49,7 @@ I have research expertise in the domains of Artificial Intelligence, Internet of
 
 ---
 
-### Algorithms [Repos](https://github.com/zamaex96?tab=repositories)
+### Repositories [Repos](https://github.com/zamaex96?tab=repositories)
 
 ---
 
