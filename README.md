@@ -129,15 +129,7 @@ I have research expertise in the domains of Artificial Intelligence, Internet of
 </p>
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zamaex96&theme=github_dark) 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zamaex96&theme=github-dark&hide_border=true)
-![Metrics](https://metrics.lecoq.io/zamaex96?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&notable=1&theme=dark)
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=zamaex96&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=zamaex96&theme=dark&hide_border=true" />
-</p>
-<p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=zamaex96&theme=github-dark&hide_border=true" />
-</p>
+
 ---
  
 <p align="center">
