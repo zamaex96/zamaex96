@@ -124,9 +124,6 @@ I have research expertise in the domains of Artificial Intelligence, Internet of
 
 ---
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=zamaex96&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zamaex96&theme=github_dark) 
 
