@@ -127,6 +127,7 @@ I have research expertise in the domains of Artificial Intelligence, Internet of
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zamaex96&theme=2077">
 </p>
+
 ---
  
 <p align="center">
