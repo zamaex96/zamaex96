@@ -6,8 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zamaex96&margin-w=15&row=1&column=8)](https://github.com/zamaex96/github-profile-trophy)
 ### About Me:    
-I am a researcher with expertise in Artificial Intelligence, Internet of Things (IoT), Underwater Wireless Sensor Networks (UWSN), Underwater Wireless Optical Communication (UWOC), and RF Communication Component Design. My work involves leveraging advanced tools and simulation techniques to design, develop, evaluate, and optimize communication modules, ensuring robust performance.
-
+I am a researcher with expertise in Artificial Intelligence, Internet of Things (IoT), Underwater Wireless Sensor Networks (UWSN), Underwater Wireless Optical Communication (UWOC), and RF Communication Component Design. 
 I actively engage in academic research, publishing peer-reviewed papers that contribute to advancements in these fields. Additionally, I utilize diverse sensor data to train machine learning models for predicting patterns and parameters.
 
 ---
