@@ -53,14 +53,6 @@ With a Ph.D. in AI Convergence and an M.S. in Electrical Communication Systems, 
 
 ---
 
-### Working on: 🚀
-- [Hybrid-CNN-LSTM-with-Spatial-Attention](https://github.com/zamaex96/Hybrid-CNN-LSTM-with-Spatial-Attention)
-- [Aqua-sense](https://github.com/zamaex96/Aqua-sense)
-- [Explainable AI](https://github.com/zamaex96/Explainable-AI-XAI-) 
-- [Diversity Gain enabled VLC/UWOC](https://github.com/zamaex96/Diversity-Gain-VLC)
-- [ML-LSTM-CNN-RNN-MLP](https://github.com/zamaex96/Machine-Learning-LSTM-sample)
-- [LoRa-VLC/UWOC](https://github.com/zamaex96/LoRa-VLC)
-- [MobileNet](https://github.com/zamaex96/Train-MobileNet)
 
 ---
 
