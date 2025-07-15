@@ -123,7 +123,7 @@ With a Ph.D. in AI Convergence and an M.S. in Electrical Communication Systems, 
 ---
  
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zamaex96&show_icons=true&theme=vision-friendly-dark&hide_rank=true">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=zamaex96&show_icons=true&theme=vision-friendly-dark&hide_rank=true">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamaex96&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
