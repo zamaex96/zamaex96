@@ -4,7 +4,12 @@
   <p align="center">🏆 Reach out to collaborate.🥇 </p>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zamaex96&margin-w=15&row=1&column=4)](https://github.com/zamaex96/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/zamaex96/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zamaex96&margin-w=15&row=1&column=4" alt="GitHub Trophies" />
+  </a>
+</p>
+
 ### About Me:    
 With a Ph.D. in AI Convergence and an M.S. in Electrical Communication Systems, I apply Machine Learning to IoT and complex signal/image analysis. My expertise includes: designing VLC/LoRa/UWOC modules, designing end-to-end ML pipelines for medical image processing; analyzing ultrasound signals with diverse ML models for classification and prediction; and performing geometric analysis and visualization. This complements my doctoral research in AI-assisted IoT/UIoT/UWSN/UWOC/VLC and foundational experience in RF/microwave component simulation, design, and fabrication.
 
