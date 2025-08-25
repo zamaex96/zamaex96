@@ -145,7 +145,7 @@ With a Ph.D. in AI Convergence and an M.S. in Electrical Communication Systems, 
 </div>
 
 <div align="center">
-  <a href="www.maazsalman.com">
+  <a href="https://maazsalman.com">
     <img width="70" src="click-svgrepo-com.svg" alt="gh" />
   </a>
   <p> Explore More! 🚀</p>
