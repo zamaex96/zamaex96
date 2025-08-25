@@ -20,7 +20,7 @@ With a Ph.D. in AI Convergence and an M.S. in Electrical Communication Systems, 
 <div align="left" style="display: flex; gap: 50px; align-items: center;">
 
   <!-- Homepage -->
-  <a href="https://maazsalman.org/">
+  <a href="www.maazsalman.com">
     <img width="50" src="front-page-svgrepo-com.svg" alt="Homepage" />
   </a>
 
@@ -145,7 +145,7 @@ With a Ph.D. in AI Convergence and an M.S. in Electrical Communication Systems, 
 </div>
 
 <div align="center">
-  <a href="https://maazsalman.org/">
+  <a href="www.maazsalman.com">
     <img width="70" src="click-svgrepo-com.svg" alt="gh" />
   </a>
   <p> Explore More! 🚀</p>
