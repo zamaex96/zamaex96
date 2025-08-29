@@ -9,6 +9,7 @@
     <img width="640" src="https://github-profile-trophy.vercel.app/?username=zamaex96&margin-w=15&row=1&column=4" alt="GitHub Trophies" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://metrics.lecoq.io/zamaex96?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=&base.skip=contributor" alt="GitHub Metrics" />
 </p>
