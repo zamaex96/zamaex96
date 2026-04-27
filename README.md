@@ -51,10 +51,6 @@ With a Ph.D. in AI Convergence and an M.S. in Electrical Communication Systems, 
     <img width="50" src="orcid-svgrepo-com.svg" alt="ORCID" />
   </a>
 
-  <!-- Workplace -->
-  <a href="http://aiotlab.pknu.ac.kr/">
-    <img width="50" src="workspace-employee-svgrepo-com.svg" alt="Workplace" />
-  </a>
 
 </div>
 
